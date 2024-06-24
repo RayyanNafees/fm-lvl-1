@@ -24,8 +24,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RayyanNafees/fm-lvl-1)
-- Live Site URL: [Add live site URL here](https://fm-recipe-page.surge.sh)
+- Solution URL: [github.com/RayyanNafees/fm-lvl-1](https://github.com/RayyanNafees/fm-lvl-1)
+- Live Site URL: [rayyannafees.github.io/fm-lvl-1](https://rayyannafees.github.io/fm-lvl-1)
 
 ## My process
 
