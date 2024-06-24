@@ -15,7 +15,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
 
 ### Screenshot
@@ -25,7 +24,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [github.com/RayyanNafees/fm-lvl-1](https://github.com/RayyanNafees/fm-lvl-1)
-- Live Site URL: [rayyannafees.github.io/fm-lvl-1](https://rayyannafees.github.io/fm-lvl-1)
+- Live Site URL: [Github Pages](https://rayyannafees.github.io/fm-lvl-1) , [Surge](https://fm-recipe-page.surge.sh/)
 
 ## My process
 
